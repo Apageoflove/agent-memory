@@ -10,8 +10,7 @@ import multiprocessing
 import sys
 
 import pytest
-
-from agent_memory.core.manage import ACTION_DUPLICATE_MERGED, Manage
+from agent_memory.core.manage import Manage
 from agent_memory.core.store import Store
 
 
